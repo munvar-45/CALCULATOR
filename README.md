@@ -23,3 +23,4 @@ This project demonstrates a good understanding of Python basics, modular program
 
 #output:
 
+![Image](https://github.com/user-attachments/assets/73c6755b-1079-41f5-9788-1f807e119604)
